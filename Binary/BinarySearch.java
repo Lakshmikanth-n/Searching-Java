@@ -1,4 +1,4 @@
-package binary;
+package Binary;
 
 import java.util.Arrays;
 import java.util.Scanner;
